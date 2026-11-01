@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SSRINIBASS/SSRINIBASS/main/assets/engineering-hero.svg" width="100%" alt="Srinibas Das — Software Engineer, focused on backend systems, distributed workflows and developer tooling"/>
+<img src="https://raw.githubusercontent.com/SSRINIBASS/SSRINIBASS/main/assets/engineering-hero.svg?v=443a61c" width="100%" alt="Srinibas Das — Software Engineer, focused on backend systems, distributed workflows and developer tooling"/>
 
 <p>
   <a href="https://www.linkedin.com/in/srinibasdas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
