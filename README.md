@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SSRINIBASS/SSRINIBASS/main/assets/engineering-hero.svg" width="100%" alt="Srinibas Das — Software Engineer, focused on backend systems, distributed workflows and developer tooling"/>
+<h2>🟢 WeLcomE  t()  dYstopiA</h2>
+
+  <a href="https://ssrinibass.github.io/CyberpunkTerminal/"><img src="https://raw.githubusercontent.com/SSRINIBASS/SSRINIBASS/main/assets/cyberpunk-terminal.png" width="100%" alt="Original cyberpunk terminal header — boot sequence, neural link progress, and welcome to the grid"/></a>
+  <p><a href="https://ssrinibass.github.io/CyberpunkTerminal/"><strong>↗ LAUNCH SYSTEM CHECKUP</strong></a></p>
 
 <p>
   <a href="https://www.linkedin.com/in/srinibasdas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
