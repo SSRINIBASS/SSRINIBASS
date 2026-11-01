@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SSRINIBASS/SSRINIBASS/main/assets/engineering-hero.svg?v=starwars-holocron-2" width="100%" alt="Srinibas Das — Software Engineer, focused on backend systems, distributed workflows and developer tooling"/>
+<a href="https://ssrinibass.github.io/CyberpunkTerminal/engineering-galaxy.html" title="Enter the interactive Galactic Engineering Holocron"><img src="https://raw.githubusercontent.com/SSRINIBASS/SSRINIBASS/main/assets/engineering-hero.svg?v=starwars-holocron-2" width="100%" alt="Animated Star-Wars-inspired engineering universe featuring Anakin, the Mandalorian, Grogu, Ahsoka and Obi-Wan as engineering archetypes"/></a>
 
 <p>
   <a href="https://www.linkedin.com/in/srinibasdas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
