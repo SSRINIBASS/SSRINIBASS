@@ -4,16 +4,23 @@
 
 I build backend platforms and data-intensive products, with a focus on APIs, asynchronous processing, observability, and systems that make complex workflows easier to operate.
 
-Currently an **AI Engineer Intern at Deloitte India**, working across banking intelligence and agent observability. Outside work, I build independent software projects and explore practical systems engineering.
+Currently an **AI Engineer Intern at Deloitte India**, working across banking intelligence and agent observability. Outside work, I build independent software and explore the engineering behind reliable systems.
 
 [LinkedIn](https://www.linkedin.com/in/srinibasdas) · [Email](mailto:srinibasdas107@gmail.com) · [GitHub](https://github.com/SSRINIBASS)
 
 ---
 
-## Selected work
+## Selected engineering work
+
+### [Varistha](https://github.com/SSRINIBASS/varistha) · *Active development*
+**Control-plane prototype for AI agent operations**
+
+Python · FastAPI · LangGraph · LiteLLM · PostgreSQL · OpenTelemetry
+
+Explores agent lifecycle management, controlled execution, governance policies, approvals, evaluations, identity, and trace-level observability. Includes automated quality and security checks in GitHub Actions.
 
 ### [URLite](https://github.com/SSRINIBASS/urlite)
-**A service-oriented URL shortener**
+**Service-oriented URL shortener**
 
 Node.js · Express · PostgreSQL · Redis · React · Nginx · Docker Compose
 
@@ -24,7 +31,7 @@ A compact backend project exploring cache-backed redirects, relational persisten
 
 Next.js · TypeScript · PostgreSQL · pgvector · BullMQ · Redis · Transformers.js
 
-Ingests GitHub repositories, processes indexing jobs asynchronously, creates local embeddings, and supports semantic retrieval over codebases.
+Ingests GitHub repositories, processes indexing jobs asynchronously, generates local embeddings, and supports semantic retrieval over codebases.
 
 ### [Echo](https://github.com/SSRINIBASS/echo)
 **Streaming crypto-narrative analytics**
@@ -38,7 +45,7 @@ Explores streaming ingestion, sentiment analysis, phrase clustering, pulse scori
 
 C++ · File I/O · Standard Input · CLI
 
-A small systems-oriented exercise implementing byte, line, word, and character counting for files and standard input.
+A systems-oriented exercise implementing byte, line, word, and character counting for files and standard input, with a compile-and-smoke-test GitHub Actions workflow.
 
 ---
 
